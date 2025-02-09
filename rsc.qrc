@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sudokuTable.qml</file>
+        <file>gameOverPopUp.qml</file>
+        <file>backButtonPressed.qml</file>
+        <file>gameComplete.qml</file>
+    </qresource>
+</RCC>
